@@ -26,5 +26,13 @@ foreach( $array_end as $key => $value )
 } 
 ?>
 
+
+///
+///
+$valeur->broadcast_id
+ne me rend rien
+///
+///
+
 </body>
 </html>
